@@ -1,0 +1,9 @@
+name: onepiecehaki
+version: 0.1
+main: me.KingFrozo.onepiecehaki.Main
+
+commands:
+  stats:
+  killerbunny:
+  setclass:
+  
