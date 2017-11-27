@@ -1,0 +1,2 @@
+# OnePieceHaki
+One Piece Haki is a plugin for a multiplayer Minecraft server that adds a RPG dynamic to the game. The program allows players to choose from two classes: brawler or slasher. Each class has it's own unique superpower/ability which can be improved through training. These superpowers are known as Haki and are broken into three types: armament, observation, and conquerors. These Hakis can be strengthened through training. The program is still in development and the only usable abilities currently are armament and observation.
